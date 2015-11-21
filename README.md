@@ -1,6 +1,6 @@
 # Reddit-reply-bot
 
-Uses the Reddit API, PRAW to find a certain account and reply to it. You need a BotAccess.py file, sqlite and a
+Uses the Reddit API, PRAW to find a certain account and reply to its comment. You need a BotAccess.py file, sqlite and a
 reddit account for the bot to control.
 
 BotAccess:
