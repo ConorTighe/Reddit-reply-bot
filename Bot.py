@@ -3,7 +3,7 @@ import BotAccess
 import sqlite3
 import time
 
-USERAGENT = "A template account that will reply under certain users comments,   "
+USERAGENT = "A template account that will reply under certain users comments.   "
 USERNAME = BotAccess.username
 PASS = BotAccess.password
 ACCOUNT = BotAccess.account
@@ -47,3 +47,4 @@ while True:
             print("Sleeping for %d seconds" % error.sleep_time)
             time.sleep(error.sleep_time)
             print("Sleep done")
+            
