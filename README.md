@@ -9,4 +9,4 @@ BotAccess:
   + password: account password.
   + account: the account it will look for.
   
-This a template for bots and can be changed to search for stings on the site etc.
+This is a template for bots and can be changed to search for stings on the site etc.
